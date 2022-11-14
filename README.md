@@ -20,3 +20,5 @@
 Cristian Martínez Hernández 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-url]: https://www.linkedin.com/in/cristian-mart%C3%ADnez-hern%C3%A1ndez-08043699/
